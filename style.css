@@ -1,36 +1,26 @@
-.my_nav_bar {
-    position: sticky;
-    top: 0
+.body{
+    background-image: url("download.png");
 }
 
-#Outside {
-    width: 650px;
-    height: 650px;
+
+#head h1{
+    float: left;
+    display: inline;
+
 }
 
-#Library {
-    width: 650px;
-    height: 650px;
+#head button{
+    float: right;
+    display: inline;
+    font-size: 30px;
 }
 
-#me {
-    width: 650px;
-    height: 650px;
+.footer{
+    margin-bottom: 0%;
+    color: darkgray;
+    border: black;
 }
 
-#outside {
-    text-align: center; 
+.modal-dialog{
+    width: 90%;
 }
-#library{
-    text-align: center; 
-}
-#ME{
-    text-align: center; 
-}
-#Tests{
-    background-color: azure;
-}
-#Basketball{
-    background-color: oldlace;
-}
-
